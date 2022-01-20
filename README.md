@@ -3,7 +3,7 @@
 ![MCVersion](https://img.shields.io/badge/MCVersion-1.16.5-success?style=flat-square)
 ![ForgeVersion](https://img.shields.io/badge/ForgeVersion-1.16.5--36.2.20-success?style=flat-square)
 ![GitHub Workflow Status](https://github.com/beanflame/koton-ation/Java%20CI%20with%20Gradle?style=flat-square)
-![GitHub](https://github.com/beanflame/koton-ation?style=flat-square)
+![GitHub](https://img.shields.io/github/license/beanflame/koton-ation?style=flat-square)
 
 
 Minecraft Koton Ation Mod
