@@ -1,13 +1,13 @@
 modLoader = "javafml"
 loaderVersion = "[36,)"
 license = "All rights reserved"
-#  issueTrackerURL="https://change.me.to.your.issue.tracker.example.invalid/" #optional
+#  issueTrackerURL = "https://change.me.to.your.issue.tracker.example.invalid/" #optional
 [[mods]]
     modId = "koton_ation"
     version = "${file.jarVersion}"
     displayName = "Koton Ation"
-    #  updateJSONURL="https://change.me.example.invalid/updates.json" #optional
-    #  displayURL="https://change.me.to.your.mods.homepage.example.invalid/" #optional
+    #  updateJSONURL = "https://change.me.example.invalid/updates.json" #optional
+    #  displayURL = "https://change.me.to.your.mods.homepage.example.invalid/" #optional
     #  logoFile = "examplemod.png" #optional
     #  credits = "Thanks for this example mod goes to Java" #optional
     authors = "beanflame"
