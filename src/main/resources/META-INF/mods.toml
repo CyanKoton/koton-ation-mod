@@ -3,26 +3,26 @@ loaderVersion = "[36,)"
 license = "All rights reserved"
 #  issueTrackerURL="https://change.me.to.your.issue.tracker.example.invalid/" #optional
 [[mods]]
-modId = "koton_ation"
-version = "${file.jarVersion}"
-displayName = "Koton Ation"
-#  updateJSONURL="https://change.me.example.invalid/updates.json" #optional
-#  displayURL="https://change.me.to.your.mods.homepage.example.invalid/" #optional
-#  logoFile = "examplemod.png" #optional
-#  credits = "Thanks for this example mod goes to Java" #optional
-authors = "beanflame"
-description = '''
-Koton ation is the light of all things and the guide of all things. Its power is very convenient and labor-saving for science and technology players. Supercomputer, koton ation, "dimension" is the source of infinity.
-'''
+    modId = "koton_ation"
+    version = "${file.jarVersion}"
+    displayName = "Koton Ation"
+    #  updateJSONURL="https://change.me.example.invalid/updates.json" #optional
+    #  displayURL="https://change.me.to.your.mods.homepage.example.invalid/" #optional
+    #  logoFile = "examplemod.png" #optional
+    #  credits = "Thanks for this example mod goes to Java" #optional
+    authors = "beanflame"
+    description = '''
+    Koton ation is the light of all things and the guide of all things. Its power is very convenient and labor-saving for science and technology players. Supercomputer, koton ation, "dimension" is the source of infinity.
+    '''
 [[dependencies.koton_ation]] #optional
-modId = "forge" #mandatory
-mandatory = true #mandatory
-versionRange = "[36,)" #mandatory
-ordering = "NONE"
-side = "BOTH"
+    modId = "forge" #mandatory
+    mandatory = true #mandatory
+    versionRange = "[36,)" #mandatory
+    ordering = "NONE"
+    side = "BOTH"
 [[dependencies.koton_ation]]
-modId = "minecraft"
-mandatory = true
-versionRange = "[1.16.5,1.17)"
-ordering = "NONE"
-side = "BOTH"
+    modId = "minecraft"
+    mandatory = true
+    versionRange = "[1.16.5,1.17)"
+    ordering = "NONE"
+    side = "BOTH"
