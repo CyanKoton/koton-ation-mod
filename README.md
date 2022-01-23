@@ -34,7 +34,7 @@ Gradle Ver ：`7.1`
 
 ForgeGradle Ver ： `5.1.+`
 
-MCP Ver ： `snapshot__20210309`
+MCP Ver ： `snapshot 20210309-1.16.5`
 
 Forge Ver ： `1.16.5-36.2.20`
 
