@@ -21,8 +21,8 @@ java.toolchain.languageVersion = JavaLanguageVersion.of(8)
 
 println('Java: ' + System.getProperty('java.version') + ' JVM: ' + System.getProperty('java.vm.version') + '(' + System.getProperty('java.vendor') + ') Arch: ' + System.getProperty('os.arch'))
 minecraft {
-
-    mappings channel: 'official', version: '1.16.5'
+    // mappings channel: 'official', version: '1.16.5'
+    mappings channel: 'snapshot', version: '20210309-1.16.5'
     runs {
         client {
             workingDirectory project.file('run')
@@ -70,12 +70,12 @@ dependencies {
 jar {
     manifest {
         attributes([
-                "Specification-Title"     : "koton-ation",
-                "Specification-Vendor"    : "koton-ation-sareus",
+                "Specification-Title"     : "koton_ation",
+                "Specification-Vendor"    : "beanflame",
                 "Specification-Version"   : "1",
                 "Implementation-Title"    : project.name,
                 "Implementation-Version"  : "${version}",
-                "Implementation-Vendor"   : "koton-ation-sareus",
+                "Implementation-Vendor"   : "beanflame",
                 "Implementation-Timestamp": new Date().format("yyyy-MM-dd'T'HH:mm:ssZ")
         ])
     }
