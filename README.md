@@ -2,7 +2,6 @@
 
 ![MCVersion](https://img.shields.io/badge/MCVersion-1.16.5-success?style=flat-square)
 ![ForgeVersion](https://img.shields.io/badge/ForgeVersion-1.16.5--36.2.20-success?style=flat-square)
-![MCPVersion](https://img.shields.io/badge/MCPVersion-snapshot__20210309-success?style=flat-square)
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/beanflame/koton-ation/Java%20CI%20with%20Gradle?style=flat-square)
 ![GitHub](https://img.shields.io/github/license/beanflame/koton-ation?style=flat-square)
 
@@ -34,7 +33,7 @@ Gradle Ver ：`7.1`
 
 ForgeGradle Ver ： `5.1.+`
 
-MCP Ver ： `snapshot 20210309-1.16.5`
+MCP Ver ： `snapshot 20210309-1.16.5` ![MCPVersion](https://img.shields.io/badge/MCPVersion-snapshot__20210309-success?style=flat-square)
 
 Forge Ver ： `1.16.5-36.2.20`
 
