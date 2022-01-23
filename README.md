@@ -35,7 +35,7 @@ ForgeGradle Ver ： `5.1.+`
 
 MCP Ver ： ![MCPVersion](https://img.shields.io/badge/MCPVersion-snapshot__20210309-success?style=flat-square)
 
-Forge Ver ： `1.16.5-36.2.20`
+Forge Ver ： ![ForgeVersion](https://img.shields.io/badge/ForgeVersion-1.16.5--36.2.20-success?style=flat-square)
 
 
 ### Download Snapshot Artifact
