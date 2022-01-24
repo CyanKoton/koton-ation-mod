@@ -31,7 +31,7 @@ Minecraft Koton Ation Mod
 
 ### Build
 
-Gradle Ver ：`7.1`
+Gradle Ver ：`7.2`（需要JDK17）
 
 ForgeGradle Ver ： `5.1.+`
 
