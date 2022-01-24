@@ -28,6 +28,6 @@ jobs:
       uses: actions/upload-artifact@v2
       if: success()
       with:
-        name: KotonAtion
+        name: KotonAtion-1.16
         path: build/libs/*.jar
         # path: build/libs/KotonAtion-0.0.1.jar
